@@ -18,6 +18,6 @@ Implemented:
  - Наследование html
  - CSS
  
- Python 3.10, Django 4.1.
+ Python 3.10, Django 4.1, sqllite.
  
  ![Image alt](https://github.com/Dalveral/samplesite/blob/master/pic.png)
